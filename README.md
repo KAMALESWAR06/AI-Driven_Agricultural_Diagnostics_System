@@ -19,7 +19,8 @@ The final dataset consists of 3,234 images across 14 different classes of plant 
 12. Corn Gray Leaf Spot
 13. BellPepper Healthy
 14. BellPepper Leaf Spot
-
+15. Avacado bayleaf
+    
 ## Annotation Process
 I used Roboflow to annotate the images needed for training the object detection and instance segmentation models.
 - **YOLO Format:** YOLO models require annotations in YOLO format, which is a .txt file for each image specifying bounding boxes and class IDs normalized to image dimensions.
